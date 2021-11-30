@@ -1,8 +1,8 @@
  Hello, world!  
 
- my second year of Bachelor of Computer Science
+ My second year of Bachelor of Computer Science.
  
- 11/20/2021  
+ 11/20/2021 in Melbourne 
 
 
 <!---

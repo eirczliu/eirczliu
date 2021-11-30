@@ -1,3 +1,6 @@
+- Hello, world! 
+- 11/20/2021 
+- my second year of Bachelor of Computer Science
 - 👋 Hi, I’m @eirczliu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
